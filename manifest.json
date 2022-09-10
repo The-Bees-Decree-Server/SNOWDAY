@@ -1,0 +1,9 @@
+﻿{
+    "name": "SNOWDAY",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/The-Bees-Decree-Server/SNOWDAY",
+    "description": "You've found a Magickal Mitten! Wonder what fun things you can do with it?",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1900"
+    ]
+}
