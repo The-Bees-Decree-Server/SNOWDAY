@@ -1,6 +1,6 @@
 <center>  
  
-# SNOWDAY v1.0.0
+# SNOWDAY v1.0.1
 
  
   <h6> 
