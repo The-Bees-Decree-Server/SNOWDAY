@@ -63,6 +63,12 @@ Install by unzipping package and dropping *SNOWDAY.dll* into your client side an
 </center>
 
 > #### Change Log: <p>
-**v1.0.0 Initial Release**
+ ** v1.0.0 Initial Release**
+> 
+</p>  
+   
+  
+ ** v1.0.1 **
+> - Server Syc Update.
 > 
 </p>
