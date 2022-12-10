@@ -1,7 +1,7 @@
 <center>  
  
-# SNOWDAY v1.0.3
-
+# SNOWDAY v1.1.3
+Mistlands
  
   <h6> 
   
@@ -78,3 +78,10 @@ Install by unzipping package and dropping *SNOWDAY.dll* into your client side an
 > - Potential Server Syc Update.
 > - If non functional please use mod locally, sorry.
 </p>
+
+
+</p>
+   
+   
+ ** v1.1.3 **
+> - Mistlands Release
