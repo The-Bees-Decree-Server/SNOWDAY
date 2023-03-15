@@ -53,9 +53,6 @@ Install by unzipping package and dropping *SNOWDAY.dll* into your client side an
   <br>
     
 
-### Looking for a laidback essentric & creative server?   Check out the hive, <p> [The Bees Decree Server](https://discord.gg/Kwr9Fff3DF)      
-![Follow the Bees](https://i.imgur.com/avvB7Eg.png)
-
 
 ##### SNOWDAY was designed for and by The Bees Decree Server devs and very special thanks to *Suddhodana*! 
   
