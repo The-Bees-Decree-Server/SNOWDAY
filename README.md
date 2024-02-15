@@ -57,9 +57,6 @@ This is a private discord do not join for mod help- you wont get it. :)
     
   <br>
     
-
-
-##### SNOWDAY was designed for and by The Bees Decree Server devs and very special thanks to *Suddhodana*! 
   
 </center>   
 </center>
