@@ -1,6 +1,6 @@
 <center>  
  
-# SNOWDAY v1.1.7
+# SNOWDAY v1.1.9
 Hildir
  
   <h6> 
@@ -50,6 +50,11 @@ Install by unzipping package and dropping *SNOWDAY.dll* into your client side an
   
 
 ### Like what we've developed? [Buy us a mead!](https://www.paypal.com/donate?hosted_button_id=4TYSZ8JKN7TFJ)   
+
+
+  # Wanna play Valhiem on a unique laidback dedicated server? Check out  [The Bees Decree Discord](https://discord.gg/vMZ5MHuP7t)! 
+This is a private discord do not join for mod help- you wont get it. :)
+    
   <br>
     
 
